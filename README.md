@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bougienl
 - 👀 I’m interested in Games, Cooking, Streaming
-- 🌱 I’m currently learning HTML, CSS & JS
+- 🌱 I’m currently learning C# and exploring PixelArt.
 - 📫 How to reach me 
 
 <!---
